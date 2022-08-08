@@ -42,7 +42,7 @@ func GetBio() Bio {
 
 <h4 align="center">Top langs :tongue:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arahdnix&langs_count=10&theme=tokyonight&layout=compact" alt="arahdnix :: Top Langs" /></p>
+<p align="center"><img src=[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arahnidx)](https://github.com/arahnidx/github-readme-stats)" /></p>
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
